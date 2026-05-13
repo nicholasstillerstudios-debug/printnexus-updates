@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.5",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.5/PrintNexus_Setup_2.0.5.exe",
-  "notas": "v2.0.5 — Build corrigida\n\n• Bug crítico: build da v2.0.4 falhava silenciosamente (ícone Instagram não existe na versão do lucide-react instalada)\n• Agora a v2.0.5 contém TODAS as alterações das versões anteriores que não foram bundladas\n• 4 setores no menu: Recepção, Criação, Impressão, Produção\n• 3 temas claros: Claro, Claro Verde, Claro Azul\n• Design business com Inter + Lucide icons\n• Cadastro de colaboradores com login\n• Cadastro de clientes com 6 tipos\n• Fix EACCES no auto-update",
+  "versao": "2.0.6",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.6/PrintNexus_Setup_2.0.6.exe",
+  "notas": "v2.0.6 — Fix erro 'arquivo em uso' ao atualizar\n\n• Updater agora cria batch que aguarda 3s antes de executar instalador\n• Mata processos PrintNexus.exe pendentes antes da instalação\n• Instalador NSIS também mata o app antes de sobrescrever (dupla segurança)\n• Próximas atualizações vão funcionar sem precisar fechar manualmente",
   "obrigatorio": false
 }
