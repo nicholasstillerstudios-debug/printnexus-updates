@@ -1,0 +1,6 @@
+{
+  "versao": "2.0.0",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.0/PrintNexus_Setup_2.0.0.exe",
+  "notas": "Versão inicial do PrintNexus v2.0 Premium\n\n• Dashboard com gráficos (receita 12 meses, top clientes, status OS)\n• Catálogo com 49 produtos (vinis, lonas, ACM, acrílico, etc)\n• Orçamentos com cálculo automático em m², un e milheiro\n• Kanban da Produção (8 colunas, drag & drop)\n• PDF profissional do orçamento\n• Botão WhatsApp e PIX QR Code\n• Otimizador de corte de chapas\n• Histórico do cliente com LTV\n• Pesquisa global Ctrl+K\n• Temas de cores (6 paletas)\n• Upload de logo da empresa\n• Backup manual\n• Auto-update integrado",
+  "obrigatorio": false
+}
