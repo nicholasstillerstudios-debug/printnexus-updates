@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.2",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.2/PrintNexus_Setup_2.0.2.exe",
-  "notas": "v2.0.2 — Colaboradores com login e setores\n\n• Cadastro completo de colaboradores: CPF/RG/PIS/CTPS, dados bancários, salário, comissão, jornada\n• Cada colaborador pode ter usuário e senha próprios para acessar o sistema\n• 7 setores: Admin, Recepção, Vendas, Criação, Impressão, Produção, Financeiro\n• Menu lateral filtrado automaticamente pelo setor do usuário logado\n• Login redireciona direto para o módulo do setor (designer vai pra Criação, impressor vai pra Impressão)\n• Admin (master) continua vendo tudo\n• Visual: ícones de escudo mostram quem tem acesso ao sistema",
+  "versao": "2.0.3",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.3/PrintNexus_Setup_2.0.3.exe",
+  "notas": "v2.0.3 — Correção do auto-update\n\n• Corrige erro EACCES ao instalar atualização\n• Instalador agora baixa em pasta segura (userData/updates) em vez de %TEMP%\n• 3 estratégias de execução em cascata (shell.openPath → cmd start → spawn)\n• Espera 600ms antes de executar (deixa antivirus terminar scan)",
   "obrigatorio": false
 }
