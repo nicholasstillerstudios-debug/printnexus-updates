@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.1",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.1/PrintNexus_Setup_2.0.1.exe",
-  "notas": "v2.0.1 — Atualização grande\n\n• Cadastro de clientes profissional (6 tipos, margens e descontos automáticos)\n• 4 setores operacionais: Recepção, Criação, Impressão e Produção\n• Modo Rede Local (LAN): trabalhe em múltiplas máquinas em tempo real\n• Wizard de configuração de modo na 1ª execução\n• Real-time WebSocket entre todos os terminais\n• PDF profissional da OS\n• Toggle Lista/Kanban na Produção\n• Auto-update silencioso e mais rápido (10min + ao focar janela)\n• Diversas melhorias de UI (ícones Lucide, fonte Inter)",
+  "versao": "2.0.2",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.2/PrintNexus_Setup_2.0.2.exe",
+  "notas": "v2.0.2 — Colaboradores com login e setores\n\n• Cadastro completo de colaboradores: CPF/RG/PIS/CTPS, dados bancários, salário, comissão, jornada\n• Cada colaborador pode ter usuário e senha próprios para acessar o sistema\n• 7 setores: Admin, Recepção, Vendas, Criação, Impressão, Produção, Financeiro\n• Menu lateral filtrado automaticamente pelo setor do usuário logado\n• Login redireciona direto para o módulo do setor (designer vai pra Criação, impressor vai pra Impressão)\n• Admin (master) continua vendo tudo\n• Visual: ícones de escudo mostram quem tem acesso ao sistema",
   "obrigatorio": false
 }
