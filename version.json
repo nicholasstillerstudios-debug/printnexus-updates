@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.3",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.3/PrintNexus_Setup_2.0.3.exe",
-  "notas": "v2.0.3 — Correção do auto-update\n\n• Corrige erro EACCES ao instalar atualização\n• Instalador agora baixa em pasta segura (userData/updates) em vez de %TEMP%\n• 3 estratégias de execução em cascata (shell.openPath → cmd start → spawn)\n• Espera 600ms antes de executar (deixa antivirus terminar scan)",
+  "versao": "2.0.4",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.4/PrintNexus_Setup_2.0.4.exe",
+  "notas": "v2.0.4 — Temas claros\n\n• 3 novos temas: Claro (Índigo), Claro Verde e Claro Azul\n• Layout com fundo claro mas sidebar mantém contraste escuro\n• Inputs, cards e tabelas adaptados para tema claro\n• Visual mais corporativo e moderno\n• Fix EACCES no auto-update (carregado da v2.0.3)\n\nPara trocar: Configurações → 🎨 Tema de Cores → escolha 'Claro'",
   "obrigatorio": false
 }
