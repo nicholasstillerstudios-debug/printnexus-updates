@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.7",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.7/PrintNexus_Setup_2.0.7.exe",
-  "notas": "v2.0.7 — Listas + dados demo\n\n• Criação e Impressão agora têm toggle Lista/Kanban\n• Lista mostra: cliente, produto, status editável, operador, equipamento, prazo\n• Cada linha tem botão Visualizar OS e Baixar PDF\n• Dados de demonstração ao instalar limpo: 5 clientes, 4 colaboradores com login, 8 OS distribuídas em todos os status, 32 tarefas nos setores, 6 lançamentos financeiros\n• Acessos demo: ana/123 (Recepção), bruno/123 (Criação), carlos/123 (Impressão), diana/123 (Produção)",
+  "versao": "2.0.8",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.8/PrintNexus_Setup_2.0.8.exe",
+  "notas": "v2.0.8 — PDFs profissionais\n\n• Cabeçalho do PDF agora tem espaço completo para a logo + dados da empresa (CNPJ, IE, IM, endereço, telefone, e-mail, site)\n• Layout reorganizado sem sobreposição de labels e valores\n• Novos campos na Identidade da Empresa (Configurações)\n• PDF do Orçamento e da OS com mesma estrutura visual\n• Espaçamento consistente, melhor legibilidade",
   "obrigatorio": false
 }
