@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.8",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.8/PrintNexus_Setup_2.0.8.exe",
-  "notas": "v2.0.8 — PDFs profissionais\n\n• Cabeçalho do PDF agora tem espaço completo para a logo + dados da empresa (CNPJ, IE, IM, endereço, telefone, e-mail, site)\n• Layout reorganizado sem sobreposição de labels e valores\n• Novos campos na Identidade da Empresa (Configurações)\n• PDF do Orçamento e da OS com mesma estrutura visual\n• Espaçamento consistente, melhor legibilidade",
+  "versao": "2.0.9",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.9/PrintNexus_Setup_2.0.9.exe",
+  "notas": "v2.0.9 — Anexo de Layout na OS\n\n• Cada OS pode ter uma imagem de layout/arte anexada (PNG/JPG/WEBP)\n• Botão de upload no detalhe da OS com preview\n• PDF da OS agora inclui seção 'PRÉVIA DO LAYOUT' com a imagem embutida\n• Se não houver imagem, mostra placeholder reservando o espaço\n• Tratamento de erros ao gerar PDF (mostra mensagem clara)\n• Configurações: dica de formato e tamanho ideal para a logo (512x512px, PNG)",
   "obrigatorio": false
 }
