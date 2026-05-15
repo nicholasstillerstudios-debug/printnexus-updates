@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.9",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.9/PrintNexus_Setup_2.0.9.exe",
-  "notas": "v2.0.9 — Anexo de Layout na OS\n\n• Cada OS pode ter uma imagem de layout/arte anexada (PNG/JPG/WEBP)\n• Botão de upload no detalhe da OS com preview\n• PDF da OS agora inclui seção 'PRÉVIA DO LAYOUT' com a imagem embutida\n• Se não houver imagem, mostra placeholder reservando o espaço\n• Tratamento de erros ao gerar PDF (mostra mensagem clara)\n• Configurações: dica de formato e tamanho ideal para a logo (512x512px, PNG)",
+  "versao": "2.0.10",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.10/PrintNexus_Setup_2.0.10.exe",
+  "notas": "v2.0.10 — Notas Fiscais\n\n• Novo módulo 'Notas Fiscais' na seção Gestão\n• Recibo profissional offline (gratuito, imediato)\n• Integração pronta com PlugNotas para NFS-e real\n• Botão 'Emitir Nota Fiscal' no detalhe da OS\n• Configurações fiscais: provedor, regime, código LC 116, ISS, retenção\n• KPIs: total emitidas, valor faturado no mês",
   "obrigatorio": false
 }
