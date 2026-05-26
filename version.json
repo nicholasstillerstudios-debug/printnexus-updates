@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.12",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.12/PrintNexus_Setup_2.0.12.exe",
-  "notas": "v2.0.12 — Status de Conexão\n\n• Novo botão de status de conexão na barra superior\n• Indicador visual em tempo real: verde (conectado), amarelo (conectando), vermelho (desconectado)\n• Popover com detalhes: IPs, porta, token (servidor) ou URL do servidor (cliente)\n• Contador de clientes conectados no modo servidor\n• Refresh automático a cada 3s",
+  "versao": "2.0.13",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.13/PrintNexus_Setup_2.0.13.exe",
+  "notas": "v2.0.13 — Licença por Período\n\n• Chaves de ativação agora suportam validade por período (em dias)\n• Script: node scripts/gerar-chaves.js <MID> [DIAS]\n• Sem DIAS = permanente; com DIAS = expira automaticamente\n• App volta para tela de ativação quando a chave expira\n• Chaves antigas continuam válidas como permanentes (retrocompat)",
   "obrigatorio": false
 }
