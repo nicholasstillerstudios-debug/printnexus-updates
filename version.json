@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.10",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.10/PrintNexus_Setup_2.0.10.exe",
-  "notas": "v2.0.10 — Notas Fiscais\n\n• Novo módulo 'Notas Fiscais' na seção Gestão\n• Recibo profissional offline (gratuito, imediato)\n• Integração pronta com PlugNotas para NFS-e real\n• Botão 'Emitir Nota Fiscal' no detalhe da OS\n• Configurações fiscais: provedor, regime, código LC 116, ISS, retenção\n• KPIs: total emitidas, valor faturado no mês",
+  "versao": "2.0.12",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.12/PrintNexus_Setup_2.0.12.exe",
+  "notas": "v2.0.12 — Status de Conexão\n\n• Novo botão de status de conexão na barra superior\n• Indicador visual em tempo real: verde (conectado), amarelo (conectando), vermelho (desconectado)\n• Popover com detalhes: IPs, porta, token (servidor) ou URL do servidor (cliente)\n• Contador de clientes conectados no modo servidor\n• Refresh automático a cada 3s",
   "obrigatorio": false
 }
