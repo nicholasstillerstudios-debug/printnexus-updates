@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.14",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.14/PrintNexus_Setup_2.0.14.exe",
-  "notas": "v2.0.14 — Chaves Demo Flutuantes\n\n• Novo: chaves demo distribuíveis (sem MID alvo prévio)\n• Travam automaticamente na 1ª máquina que ativar\n• Boots seguintes verificam o MID; cópia do licenca.json em outro PC é revogada\n• Script: node scripts/gerar-chaves.js demo [DIAS]\n• Chaves pré-vinculadas e legadas continuam funcionando",
+  "versao": "2.0.15",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.15/PrintNexus_Setup_2.0.15.exe",
+  "notas": "v2.0.15 — Segurança + UX da Licença\n\n• Botão 'Trocar chave de ativação' sempre disponível em Configurações → Licença (mesmo com licença ativa)\n• Exibe dias restantes e data de expiração para licenças com período\n• Segurança: rate-limit em ativação (5 falhas em 60s = bloqueio temporário)\n• Segurança: chaves demo em formato legado agora são rejeitadas",
   "obrigatorio": false
 }
