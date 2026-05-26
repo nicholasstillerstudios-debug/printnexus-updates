@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.15",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.15/PrintNexus_Setup_2.0.15.exe",
-  "notas": "v2.0.15 — Segurança + UX da Licença\n\n• Botão 'Trocar chave de ativação' sempre disponível em Configurações → Licença (mesmo com licença ativa)\n• Exibe dias restantes e data de expiração para licenças com período\n• Segurança: rate-limit em ativação (5 falhas em 60s = bloqueio temporário)\n• Segurança: chaves demo em formato legado agora são rejeitadas",
+  "versao": "2.0.16",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.16/PrintNexus_Setup_2.0.16.exe",
+  "notas": "v2.0.16 — RBAC Backend (controle de acesso por setor)\n\n• Cada canal IPC agora valida o setor do usuário logado no backend (antes era só UI)\n• Usuário do setor Criação não consegue mais excluir clientes via DevTools/atalhos\n• Admin: tudo · Recepção/Vendas: clientes/orçamentos/OS · Criação: arte · Produção/Impressão: estoque · Financeiro: financeiro+notas\n• Canais públicos (boot/setup/ativação) seguem acessíveis sem login\n• Cliente LAN sincroniza sessão com o servidor automaticamente",
   "obrigatorio": false
 }
