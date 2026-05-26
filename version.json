@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.13",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.13/PrintNexus_Setup_2.0.13.exe",
-  "notas": "v2.0.13 — Licença por Período\n\n• Chaves de ativação agora suportam validade por período (em dias)\n• Script: node scripts/gerar-chaves.js <MID> [DIAS]\n• Sem DIAS = permanente; com DIAS = expira automaticamente\n• App volta para tela de ativação quando a chave expira\n• Chaves antigas continuam válidas como permanentes (retrocompat)",
+  "versao": "2.0.14",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.14/PrintNexus_Setup_2.0.14.exe",
+  "notas": "v2.0.14 — Chaves Demo Flutuantes\n\n• Novo: chaves demo distribuíveis (sem MID alvo prévio)\n• Travam automaticamente na 1ª máquina que ativar\n• Boots seguintes verificam o MID; cópia do licenca.json em outro PC é revogada\n• Script: node scripts/gerar-chaves.js demo [DIAS]\n• Chaves pré-vinculadas e legadas continuam funcionando",
   "obrigatorio": false
 }
