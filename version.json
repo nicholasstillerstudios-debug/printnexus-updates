@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.16",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.16/PrintNexus_Setup_2.0.16.exe",
-  "notas": "v2.0.16 — RBAC Backend (controle de acesso por setor)\n\n• Cada canal IPC agora valida o setor do usuário logado no backend (antes era só UI)\n• Usuário do setor Criação não consegue mais excluir clientes via DevTools/atalhos\n• Admin: tudo · Recepção/Vendas: clientes/orçamentos/OS · Criação: arte · Produção/Impressão: estoque · Financeiro: financeiro+notas\n• Canais públicos (boot/setup/ativação) seguem acessíveis sem login\n• Cliente LAN sincroniza sessão com o servidor automaticamente",
+  "versao": "2.0.17",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.17/PrintNexus_Setup_2.0.17.exe",
+  "notas": "v2.0.17 — Onboarding, RBAC por setor e HelpBot\n\n• Wizard de setup inclui criação do primeiro usuário (nome, login, senha, setor)\n• Apresentação + cadastro de dados da empresa (logo, CNPJ, contato) ao primeiro login admin\n• Setores Criação/Impressão/Produção não veem mais valores comerciais nas OS (lista, kanban, detalhes, PDF)\n• HelpBot flutuante com 25 tópicos offline, busca por palavras-chave e sugestões contextuais por tela\n• Segurança: canal de criação do 1º usuário bloqueado após uso; rate-limit em ativação\n• Migração silenciosa: instalações existentes não reabrem wizards",
   "obrigatorio": false
 }
