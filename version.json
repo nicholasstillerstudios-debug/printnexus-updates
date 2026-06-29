@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.17",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.17/PrintNexus_Setup_2.0.17.exe",
-  "notas": "v2.0.17 — Onboarding, RBAC por setor e HelpBot\n\n• Wizard de setup inclui criação do primeiro usuário (nome, login, senha, setor)\n• Apresentação + cadastro de dados da empresa (logo, CNPJ, contato) ao primeiro login admin\n• Setores Criação/Impressão/Produção não veem mais valores comerciais nas OS (lista, kanban, detalhes, PDF)\n• HelpBot flutuante com 25 tópicos offline, busca por palavras-chave e sugestões contextuais por tela\n• Segurança: canal de criação do 1º usuário bloqueado após uso; rate-limit em ativação\n• Migração silenciosa: instalações existentes não reabrem wizards",
+  "versao": "2.0.18",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.18/PrintNexus_Setup_2.0.18.exe",
+  "notas": "v2.0.18 — Multi-itens em OS/Orçamentos + fixes\n\n• Agora dá pra adicionar vários serviços/itens em uma mesma OS ou orçamento (com catálogo, dimensões, qtd, preço)\n• Total da OS/orçamento é calculado automaticamente como soma dos itens\n• PDF e tela de detalhes da OS listam todos os itens\n• Fix: clicar fora do modal agora pede confirmação se há dados não salvos (não perde mais o formulário)\n• Fix: botão 'Pular' no setup inicial salva os dados já preenchidos da empresa (não descarta)",
   "obrigatorio": false
 }
