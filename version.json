@@ -1,6 +1,6 @@
 {
-  "versao": "2.0.18",
-  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.18/PrintNexus_Setup_2.0.18.exe",
-  "notas": "v2.0.18 — Multi-itens em OS/Orçamentos + fixes\n\n• Agora dá pra adicionar vários serviços/itens em uma mesma OS ou orçamento (com catálogo, dimensões, qtd, preço)\n• Total da OS/orçamento é calculado automaticamente como soma dos itens\n• PDF e tela de detalhes da OS listam todos os itens\n• Fix: clicar fora do modal agora pede confirmação se há dados não salvos (não perde mais o formulário)\n• Fix: botão 'Pular' no setup inicial salva os dados já preenchidos da empresa (não descarta)",
-  "obrigatorio": false
+  "versao": "2.0.19",
+  "url": "https://github.com/nicholasstillerstudios-debug/printnexus-updates/releases/download/v2.0.19/PrintNexus_Setup_2.0.19.exe",
+  "notas": "v2.0.19 — Correção crítica do banco\n\n• Fix: wrapper SQL liberava o statement entre iterações do mesmo prepare(), quebrando salvamentos em lote. Agora cada .run() prepara seu próprio statement.\n• IMPACTO: dados da empresa em Configurações agora salvam de verdade\n• IMPACTO: tarefas dos setores (Recepção/Criação/Impressão/Produção) são criadas corretamente ao abrir uma OS\n• IMPACTO: multi-itens em OS/orçamentos agora gravam no banco corretamente (a migração da coluna 'itens' roda no próximo boot)\n• Inclui todas as melhorias da 2.0.18 (multi-itens, fix modal click-fora, fix Pular do setup inicial)",
+  "obrigatorio": true
 }
